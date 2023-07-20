@@ -1,0 +1,7 @@
+region                = "eu-west-1"
+project_name          = "hyde-tf-workshop"
+environment           = "sandbox"
+business_unit         = "infrastructure"
+owners_email          = "neil.day@hyde-housing.co.uk"
+hyde_security_contact = "neil.day@hyde-housing.co.uk"
+iac                   = "terraform"
